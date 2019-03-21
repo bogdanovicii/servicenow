@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Praduitori" max_length="40" name="x_320280_praduitor_praduitori" type="collection">
+        <element label="Boss Level" max_length="40" name="boss_level" type="integer"/>
+        <element label="Praduitor" max_length="32" name="praduitor" reference="sys_user" type="reference"/>
+        <element label="Talent" max_length="255" name="talent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Praduiala" max_length="40" name="u_first_prad" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Praduiala" max_length="40" name="u_last_prad" type="glide_date"/>
+        <index name="index">
+            <element name="praduitor"/>
+        </index>
+    </element>
+</database>

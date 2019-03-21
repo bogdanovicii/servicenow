@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-21 11:39:56</sys_created_on>
+        <sys_id>313b854a4f903300641f121f9310c7be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_320280_praduitor.praduitori_user</sys_name>
+        <sys_package display_value="Praduitorii" source="x_320280_praduitor">ee34d4fd4f9c3300641f121f9310c7f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Praduitorii">ee34d4fd4f9c3300641f121f9310c7f5</sys_scope>
+        <sys_security_acl display_value="x_320280_praduitor_praduialaa">fb2bcd4a4f903300641f121f9310c7fc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_313b854a4f903300641f121f9310c7be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-21 11:39:56</sys_updated_on>
+        <sys_user_role display_value="x_320280_praduitor.praduitori_user" name="x_320280_praduitor.praduitori_user">fcfb58f14fdc3300641f121f9310c7a1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

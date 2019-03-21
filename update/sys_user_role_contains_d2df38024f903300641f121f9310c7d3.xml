@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_320280_praduitor.praduitori_user" name="x_320280_praduitor.praduitori_user">fcfb58f14fdc3300641f121f9310c7a1</contains>
+        <role display_value="x_320280_praduitor.praduitori_sef" name="x_320280_praduitor.praduitori_sef">8e6b90754fdc3300641f121f9310c76c</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-21 10:49:48</sys_created_on>
+        <sys_id>d2df38024f903300641f121f9310c7d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_320280_praduitor.praduitori_user.x_320280_praduitor.praduitori_sef</sys_name>
+        <sys_package display_value="Praduitorii" source="x_320280_praduitor">ee34d4fd4f9c3300641f121f9310c7f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Praduitorii">ee34d4fd4f9c3300641f121f9310c7f5</sys_scope>
+        <sys_update_name>sys_user_role_contains_d2df38024f903300641f121f9310c7d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-21 10:49:48</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
